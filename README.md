@@ -6,9 +6,6 @@ Flix is an app that allows users to browse movies from the [The Movie Database A
 
 ## Flix Part 1
 
-### User Stories
-`TODO://` In the **User Stories section below**, add an `x` in the `-[ ]` like this `- [x]` for any user story you complete. (🚫 Remove this paragraph after checking off completed user stories)
-
 #### REQUIRED (10pts)
 - [x] (2pts) User sees an app icon on the home screen and a styled launch screen.
 - [x] (5pts) User can view and scroll through a list of movies now playing in theaters.
@@ -23,4 +20,4 @@ Flix is an app that allows users to browse movies from the [The Movie Database A
 <img src="https://media.giphy.com/media/Q2p3lpISBsSiR11toP/giphy.gif" width=250><br>
 
 ### Notes
-Describe any challenges encountered while building the app.
+Building the app, I learned how to set autoconstraints to make my storyboards work for any iPhone. I also learned how to run the simulation on my personal iPhone, which took some time to research. 
