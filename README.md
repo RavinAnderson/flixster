@@ -21,7 +21,10 @@ Flix is an app that allows users to browse movies from the [The Movie Database A
 I downloaded the app to my phone and used the screen-record option.
 
 <img src="https://media.giphy.com/media/kv47vfoaaOL3R4jtiI/giphy.gif" width=250><br>
-This is an example of flixter working in landscape mode.
+This is an example of Flix working in landscape mode.
+
+<img src="https://media.giphy.com/media/HKZAFjiDi3eavrariG/giphy.gif" width=250><br>
+This is Flix working on an iPod touch.
 
 ### Notes
 Building the app, I learned how to set autoconstraints to make my storyboards work for any iPhone. I also learned how to run the simulation on my personal iPhone, which took some time to research. 
