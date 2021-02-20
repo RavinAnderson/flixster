@@ -26,5 +26,8 @@ This is an example of Flix working in landscape mode.
 <img src="https://media.giphy.com/media/HKZAFjiDi3eavrariG/giphy.gif" width=250><br>
 This is Flix working on an iPod touch.
 
+<img src="https://media.giphy.com/media/hFaY6figDEFvDGUidN/giphy.gif" width=250><br>
+This is the Flix launch screen.
+
 ### Notes
 Building the app, I learned how to set autoconstraints to make my storyboards work for any iPhone. I also learned how to run the simulation on my personal iPhone, which took some time to research. 
