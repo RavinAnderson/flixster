@@ -17,7 +17,7 @@ Flix is an app that allows users to browse movies from the [The Movie Database A
 
 ### App Walkthrough GIF
 
-<img src="https://media.giphy.com/media/EKYokxOi7GmlDRyXul/giphy.gif" width=250><br>
+<img src="https://media.giphy.com/media/2oBY3wKa0wPjXUfswk/giphy.gif" width=250><br>
 
 ### Notes
 Learning how to build a collection view wasn't as bad as I thought, but I'm having difficulty segueing between the moviegridcell and a new view controller.
